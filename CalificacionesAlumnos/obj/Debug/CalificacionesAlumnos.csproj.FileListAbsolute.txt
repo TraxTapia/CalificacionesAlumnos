@@ -1,0 +1,10 @@
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\bin\Debug\CalificacionesAlumnos.exe.config
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\bin\Debug\CalificacionesAlumnos.exe
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\bin\Debug\CalificacionesAlumnos.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.Form1.resources
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.Properties.Resources.resources
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.csproj.GenerateResource.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.exe
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.pdb
